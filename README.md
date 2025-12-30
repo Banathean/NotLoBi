@@ -343,6 +343,7 @@
     - Scientific litterature search engine : https://www.semanticscholar.org/
     - Scientific litterature search engine : https://www.scienceopen.com/
     - OnlyFans search engine : https://onlysearch.co/
+    - OnlyFans Search Engine : https://onlyfinds.io
     - US sex offenders database : https://www.justice.gov/action-center/locate-prison-inmate-or-sex-offender
 
   - <i>SEARCH ENGINES BY REGION / COUNTRY </i>
